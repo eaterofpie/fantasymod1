@@ -1,0 +1,19 @@
+{
+  "block.fantasymod.dwarf_brick": "dwarf_brick",
+  "block.fantasymod.dwarf_cobble": "dwarf_cobble",
+  "block.fantasymod.dwarf_ore": "dwarf_ore",
+  "block.fantasymod.dwarf_stone": "dwarf_stone",
+  "block.fantasymod.dwarfsilver_ore": "dwarfsilver_ore",
+  "block.fantasymod.dwarfsteel_ore": "dwarfsteel_ore",
+  "block.fantasymod.dwarftine_ore": "dwarftine_ore",
+  "block.fantasymod.dwarfwhite_stone": "dwarfwhite_brick",
+  "block.fantasymod.mithril_brick": "mithril_brick",
+  "block.fantasymod.mithril_cobble": "mithril_cobble",
+  "block.fantasymod.mithril_ore": "mithril_ore",
+  "block.fantasymod.mithril_stone": "mithril_stone",
+  "block.fantasymod.sunelf_leaves": "sunelf_leaves",
+  "block.fantasymod.sunelf_log": "sunelf_log",
+  "item.fantasymod.dwarfrudy_item": "dwarfrudy_item",
+  "item.fantasymod.mithril_item": "mithril_item",
+  "item.fantasymod.raw_mithril_item": "raw_mithril_item"
+}
